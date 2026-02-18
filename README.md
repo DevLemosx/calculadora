@@ -1,30 +1,63 @@
 # 🧮 Calculadora Pro - Lemosx00
 
-Uma calculadora web moderna, totalmente responsiva e com um visual dinâmico, desenvolvida para funcionar perfeitamente tanto em computadores como em dispositivos móveis.
-
-## 🚀 Funcionalidades
-
-- **Cálculos Matemáticos:** Soma, subtração, multiplicação e divisão com precisão decimal.
-- **Modo Escuro Inteligente:** - Alternância manual via botão 🌓.
-  - Deteção automática baseada nas preferências do sistema.
-  - Memorização da escolha do utilizador via `LocalStorage`.
-- **Design Responsivo:** Interface que se adapta a qualquer tamanho de ecrã.
-- **Fundo Animado:** Símbolos matemáticos estilizados que flutuam suavemente.
-- **Atalhos de Teclado:** Suporte para uso via teclado físico.
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML5**, **CSS3** e **JavaScript (ES6+)**.
-
-## 🔗 Demonstração
-Pode testar a calculadora online aqui:
-**[https://lemosx00.github.io/calculadora/](https://lemosx00.github.io/calculadora/)**
-
-## 📩 Contato
-Gostou do projeto? Mande uma mensagem:
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591987446257?text=Olá,%20vi%20seu%20projeto%20de%20calculadora%20e%20achei%20bem%20legal)
+Aplicação web moderna e responsiva, criada com foco em UX, performance e design interativo.  
+Permite operações matemáticas básicas, alternância de tema claro/escuro e suporte a atalhos de teclado.
 
 ---
 
-Desenvolvido com ☕ por [Devgui324](https://github.com/devgui324)
+## 🎯 Objetivo do Projeto
+
+Praticar manipulação de eventos, controle de estado e persistência de dados no navegador, simulando funcionalidades de apps reais.
+
+---
+
+## 🚀 Funcionalidades
+
+- ✅ Operações matemáticas: soma, subtração, multiplicação e divisão  
+- ✅ Alternância entre modo claro e escuro  
+- ✅ Detecção automática do tema do sistema  
+- ✅ Persistência de preferência de tema via LocalStorage  
+- ✅ Interface 100% responsiva  
+- ✅ Fundo animado com CSS  
+- ✅ Suporte a atalhos de teclado  
+
+---
+
+## 📸 Preview
+
+### Desktop
+![Preview Desktop](./assets/desktop.jpg)
+
+### Mobile
+![Preview Mobile](./assets/mobile.jpg)
+
+### Em ação (GIF)
+![Demo Animada](./assets/demo.gif)
+
+---
+
+## 🛠️ Tecnologias
+
+- HTML5  
+- CSS3 (Flexbox, animações e responsividade)  
+- JavaScript (ES6+)  
+- LocalStorage API  
+
+---
+
+## 🔗 Demonstração
+
+Teste online a calculadora:  
+[https://lemosx00.github.io/calculadora/](https://lemosx00.github.io/calculadora/)
+
+---
+
+## 📩 Contato
+
+Entre em contato via WhatsApp:  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591987446257)
+
+---
+
+Desenvolvido por Guilherme Lemos 🚀  
+Desenvolvedor em aprendizagem
