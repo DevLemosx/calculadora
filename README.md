@@ -26,4 +26,5 @@ Gostou do projeto? Mande uma mensagem:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5591987446257?text=Olá,%20vi%20seu%20projeto%20de%20calculadora%20e%20achei%20bem%20legal)
 
 ---
-Desenvolvido com ☕ por [Lemosx00](https://github.com/lemosx00)
+
+Desenvolvido com ☕ por [Devgui324](https://github.com/devgui324)
