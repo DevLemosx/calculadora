@@ -48,7 +48,7 @@ Praticar manipulação de eventos, controle de estado e persistência de dados n
 ## 🔗 Demonstração
 
 Teste online a calculadora:  
-[https://lemosx00.github.io/calculadora/](https://lemosx00.github.io/calculadora/)
+[https://calculetpro.netlify.app/]
 
 ---
 
